@@ -16,7 +16,7 @@ Web Development: HTML | CSS | React | Node.js
 
 ## Currently Exploring
 
-Machine Learning • Data Structures & Algorithms
+Machine Learning | Data Structures & Algorithms
 
 ## Connect
 

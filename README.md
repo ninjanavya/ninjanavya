@@ -1,31 +1,25 @@
 # Hi, I'm Navya 👋
 
-Some people collect hobbies.
-I collect project ideas.
+I enjoy turning ideas into products through code, data, and design.
 
-Most start as random thoughts at 2 AM and somehow turn into repositories, prototypes and learning experiences.
+Currently exploring Data Structures & Algorithms, Full Stack Development and Machine Learning while building projects that solve real-world problems.
 
-Currently building, breaking, fixing and repeating.
-
-## What I'm Working On
-
-1. Data Structures & Algorithms
-
-2. Full Stack Development
-
-3. Machine Learning Projects
-
-4. Data Analytics & Visualization
 
 ## Tech Stack
 
-Python • JavaScript • SQL
+Programming Lamguages: Python | JavaScript | SQL
 
-HTML • CSS • React
+Web Development: HTML | CSS | React | Node.js
 
-Git • GitHub • Power BI
+🛠 Git | GitHub
 
 
-## Current Goal
+## Currently Exploring
 
-Building projects that solve real problems while preparing for Software Engineering roles.
+Machine Learning • Data Structures & Algorithms
+
+## Connect
+
+🔗 LinkedIn
+📧 Email
+🧩 LeetCode

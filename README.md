@@ -1,6 +1,6 @@
 # Hi, I'm Navya 👋
 
-I enjoy turning ideas into products through code, data, and design.
+I enjoy turning ideas into products through code, data and design.
 
 Currently exploring Data Structures & Algorithms, Full Stack Development and Machine Learning while building projects that solve real-world problems.
 

@@ -7,7 +7,7 @@ Currently exploring Data Structures & Algorithms, Full Stack Development and Mac
 
 ## Tech Stack
 
-Programming Lamguages: Python | JavaScript | SQL
+Programming Lamguages: Python | JavaScript 
 
 Web Development: HTML | CSS | React | Node.js
 

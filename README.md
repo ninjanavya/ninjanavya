@@ -1,25 +1,15 @@
 # Hi, I'm Navya 👋
 
-I enjoy turning ideas into products through code, data and design.
+### 🥷 Code. Learn. Build. Repeat.
 
-Currently exploring Data Structures & Algorithms, Full Stack Development and Machine Learning while building projects that solve real-world problems.
+## 👩 About Me
 
+## 🛠 Tech Stack
 
-## Tech Stack
+## 📈 GitHub Stats
 
-Programming Lamguages: Python | JavaScript 
+## 🏆 LeetCode
 
-Web Development: HTML | CSS | React | Node.js
+## 🚀 Featured Projects
 
-🛠 Git | GitHub
-
-
-## Currently Exploring
-
-Machine Learning | Data Structures & Algorithms
-
-## Connect
-
-🔗 LinkedIn
-📧 Email
-🧩 LeetCode
+## 📫 Connect
